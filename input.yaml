@@ -1,0 +1,9 @@
+script : 'texttexttextt'
+questions : 
+- 'Which private spaces are included in the scenario (private spaces)'
+- 'Which public spaces are included in the scenario (public spaces)'
+- 'What scenes take place in public spaces?'
+- 'How many male actors are in the script (we can just say "Male actors")'
+- 'Age of the male actors'
+- 'How many female actors are included in the script (female actors)'
+- 'Age of female actors'
